@@ -1,0 +1,74 @@
+{% include head.html %}
+{% include header.html %}
+
+<main class="about">
+    <h1> {{ page.title }}</h1>
+
+    <div class="about__image-container">
+        <img src="/assets/img/jared.jpg" alt="Jared" class="about__image">
+    </div>
+
+    <div class="about__copy">
+        {{ content }}
+    </div>
+</main>
+
+<aside class="experience">
+    <h2>Experience</h2>
+    <ul>
+        <li class="work">
+            <strong>
+                Creative Developer<br>
+                Gameful Software Ltd
+            </strong>
+            <p>2024 - Present</p>
+        </li>
+        <li class="work">
+            <strong>Learning Technology Coach<br>
+                Dulwich College Beijing</strong>
+            <p>2021 - 2024</p>
+        </li>
+        <li class="school">
+            <strong>MSc Advanced Computer Science<br>
+                University of Leicester</strong>
+            <p>2018 - 2020</p>
+        </li>
+        <li class="school">
+            <strong>PGCE Computer Science Education<br>
+                University of Sunderland</strong>
+            <p>2017 - 2018</p>
+        </li>
+        <li class="work">
+            <strong>Teacher of Computer Science<br>
+                Dulwich International High School Suzhou</strong>
+            <p>2017 - 2021</p>
+        </li>
+        <li class="work">
+            <strong>Contract Web Developer<br>
+                PH Property Holdings</strong>
+            <p>2015 - 2017</p>
+        </li>
+        <li class="work">
+            <strong>Contract Web Developer<br>
+                Barefoot Live Ltd</strong>
+            <p>2015 - 2017</p>
+        </li>
+        <li class="work">
+            <strong>Freelance Web Developer<br>
+                Self Employed</strong>
+            <p>2013 - 2017</p>
+        </li>
+        <li class="work">
+            <strong>Frontend Web Developer
+                <br>The Fresh UK Ltd</strong>
+            <p>2012 - 2013</p>
+        </li>
+        <li class="school">
+            <strong>BSc Music Technology
+                <br>University of York</strong>
+            <p>2009 - 2012</p>
+        </li>
+    </ul>
+</aside>
+
+{% include footer.html %}

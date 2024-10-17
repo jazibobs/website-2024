@@ -1,0 +1,136 @@
+{
+	"name": "#100DaysOfCode Reflection",
+	"children": [
+		{
+			"name": "GameDev",
+			"children": [
+				{
+					"name": "Godot",
+					"category": "GameDev",
+					"value": 23
+				},
+				{
+					"name": "Unity",
+					"category": "GameDev",
+					"value": 1
+				},
+				{
+					"name": "Phaser.js",
+					"category": "GameDev",
+					"value": 11
+				},
+				{
+					"name": "Kontra.js",
+					"category": "GameDev",
+					"value": 3
+				}
+			]
+		},
+		{
+			"name": "Web Dev",
+			"children": [
+				{
+					"name": "Vue",
+					"category": "Web Dev",
+					"value": 2
+				},
+				{
+					"name": "Jekyll",
+					"category": "Web Dev",
+					"value": 8
+				},
+				{
+					"name": "Node.js",
+					"category": "Web Dev",
+					"value": 6
+				},
+				{
+					"name": "WordPress",
+					"category": "Web Dev",
+					"value": 3
+				},
+				{
+					"name": "JavaScript",
+					"category": "Web Dev",
+					"value": 2
+				}
+			]
+		},
+		{
+		
+			"name": "DataVis",
+			"children": [
+				{
+					"name": "D3.js",
+					"category": "DataVis",
+					"value": 17
+				}
+			]
+		},
+		{
+			"name": "InfoSec",
+			"children": [
+				{
+					"name": "Python",
+					"category": "InfoSec",
+					"value": 2
+				},
+				{
+					"name": "BASH",
+					"category": "InfoSec",
+					"value": 7
+				},
+				{
+					"name": "Node.js",
+					"category": "InfoSec",
+					"value": 3
+				},
+				{
+					"name": "MongoDB",
+					"category": "InfoSec",
+					"value": 2
+				}
+			]
+		},
+		{
+			"name": "AI",
+			"children": [
+				{
+					"name": "Python",
+					"category": "AI",
+					"value": 5
+				}
+			]
+		},
+		{
+			"name": "Teaching",
+			"children": [
+				{
+					"name": "Pseudocode",
+					"category": "Teaching",
+					"value": 2
+				},
+				{
+					"name": "Prolog",
+					"category": "Teaching",
+					"value": 1
+				},
+				{
+					"name": "Python",
+					"category": "Teaching",
+					"value": 1
+				}
+			]
+		},
+		{
+			"name": "General",
+			"children": [
+				{
+					"name": "Python",
+					"category": "General",
+					"value": 1
+				}
+			]
+		}
+	]
+}
