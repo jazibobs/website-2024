@@ -1,6 +1,7 @@
 /projects/software/ /projects/
-/projects/software/ /projects/
+/projects/software/end-of-the-line /projects/
 /projects/software/tonalities /projects/
 /projects/software/monster-match /projects/
-/projects/hardware/rpi-pico-hitbox /projects/
-/projects/software/end-of-the-line /projects/
+
+/projects/hardware/ /projects/
+/projects/hardware/rpi-pico-hitbox 
