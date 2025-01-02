@@ -2,7 +2,7 @@
 layout: post
 title:  "2025 - Looking forward"
 author: Jared
-date:   2024-11-21 18:15:00 +2100
+date:   2025-01-02 18:15:00 +2100
 ---
 
 Posted for personal accountability. Hopefully all of these tasks will be completed by December!
