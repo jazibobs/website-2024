@@ -5,22 +5,13 @@
     <h1>{{ page.title }}</h1>
 
     <ul>
+        {% for service in site.services %}
         <li>
-            <h2>Web development</h2>
-            <p>From simple landing pages to complex web applications, I can help you build a website that meets your needs.</p>
+            <h2>{{ service.title }}</h2>
+            {{ service.excerpt }}
+            <p><a href="{{ service.url }}">Learn more</a></p>
         </li>
-        <li>
-            <h2>Mobile apps</h2>
-            <p>Need an app for your business? I can help you design and build a mobile app that works on both iOS and Android.</p>
-        </li>
-        <li>
-            <h2>Game development</h2>
-            <p>Want to create a game for your business or just for fun? I can help you design and build a game that your users will love.</p>
-        </li>
-        <li>
-            <h2>Consulting</h2>
-            <p>Not sure where to start? I can help you plan your project, choose the right technologies, and find the best team for the job.</p>
-        </li>
+        {% endfor %}
     </ul>
 </main>
 

@@ -1,5 +1,5 @@
 ---
-title: Services
-permalink: /services/
+title: My services
 layout: services
+permalink: /services/
 ---
