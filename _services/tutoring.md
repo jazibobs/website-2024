@@ -17,7 +17,7 @@ Prior to each session, we will pre-agree on the lesson topic and outcomes to ens
 
 Jared Rigby (that's me!) is a fully qualified UK teacher (PGCE) with a Masters Degree (MSc) in Computer Science.
 
-I have worked as a computer science teacher at world leading international schools. In my most recently, I was the lead teacher of all game development modules at Dulwich College Beijing.
+I have worked as a computer science teacher at world leading international schools. Most recently, I was the lead teacher of all game development modules at Dulwich College Beijing.
 
 I run a freelance software development studio specialising in Godot development and have been running an annual game development competition in collaboration with Ubisoft Shanghai since 2022.
 
