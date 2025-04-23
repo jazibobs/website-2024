@@ -15,7 +15,7 @@ Prior to each session, we will pre-agree on the lesson topic and outcomes to ens
 
 ![Jared delivering a workshop at Ubisoft Shanghai](/assets/img/tutoring/jared-workshop-ubisoft.JPG)
 
-I'm a fully qualified UK teacher (PGCE) with a Masters Degree (MSc) in Computer Science.
+Jared Rigby (that's me!) is a fully qualified UK teacher (PGCE) with a Masters Degree (MSc) in Computer Science.
 
 I have worked as a computer science teacher at world leading international schools. In my most recently, I was the lead teacher of all game development modules at Dulwich College Beijing.
 
