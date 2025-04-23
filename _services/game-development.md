@@ -13,4 +13,4 @@ Whether you're looking to develop an early prototype, refine an existing game pr
 
 ## Contact me
 
-Send an email to [talk@jaredrigby.co.uk](mailto:talk@jaredrigby.co.uk) if you're looking for support in a new Godot project. Or arrange a meeting using the calendar below.
+Send an email to [talk@jaredrigby.co.uk](mailto:talk@jaredrigby.co.uk) if you're looking for support in a new Godot project.

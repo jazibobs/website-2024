@@ -13,4 +13,4 @@ I've been in the website game since 2013 and have worked with major brands acros
 
 ## Contact me
 
-Send an email to [talk@jaredrigby.co.uk](mailto:talk@jaredrigby.co.uk) if you're looking for support in a new web project. Or arrange a meeting using the calendar below.
+Send an email to [talk@jaredrigby.co.uk](mailto:talk@jaredrigby.co.uk) if you're looking for support in a new web project.
