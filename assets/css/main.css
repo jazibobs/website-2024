@@ -891,26 +891,58 @@ figure {
         color: var(--blue);
     }
 
-    table {
-        text-align: left;
+    .cal-inline-container {
+        margin-top: calc(var(--spacing) * 4);
+    }
+}
 
-        th,
-        td {
-            padding: var(--spacing);
-            vertical-align: top;
-            background: var(--grey-overlay);
-        }
+.price-table {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: calc(var(--spacing) * 2);
 
-        tr:nth-child(2) {
-            font-size: 2rem;
+    .price-table__single {
+        background: var(--grey-overlay);
+        padding: calc(var(--spacing) * 2);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
 
-            td {
-                padding-bottom: 0;
-            }
+    .price-table__title {
+        font-size: 1.5rem;
+        margin: 0;
+        padding: 0;
+        color: var(--red);
+    }
+
+    .price-table__point {
+        font-size: 2.5rem;
+        color: var(--orange);
+        margin-bottom: 0;
+    }
+
+    .price-table__per-session {
+        margin-top: 0;
+        font-size: 0.8;
+        color: var(--purple);
+
+        &:not(:empty):after {
+            content: " per session";
         }
     }
 
-    .cal-inline-container {
-        margin-top: calc(var(--spacing) * 4);
+    .price-table__link {
+        display: block;
+        text-decoration: none;
+        color: var(--white);
+        background: var(--blue);
+        padding: var(--spacing);
+        margin-top: var(--spacing);
+    }
+
+    @media screen and (min-width: 1000px) {
+        flex-direction: row;
     }
 }

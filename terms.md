@@ -5,8 +5,6 @@ layout: default
 
 ## Session overview
 
-By purchasing Godot tutoring sessions on this website you agree with the terms and conditions outlined below
-
 Each Godot tutoring session runs for 60 minutes at the time pre-arranged by the tutor and tutee. The content of the session will be pre-agreed by the tutor and tutee at the time of agreeing the session date and time.
 
 All payments must be made in advance; tutees who have not completed payment will not have access to any tutoring sessions.
