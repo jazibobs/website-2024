@@ -891,6 +891,25 @@ figure {
         color: var(--blue);
     }
 
+    table {
+        text-align: left;
+
+        th,
+        td {
+            padding: var(--spacing);
+            vertical-align: top;
+            background: var(--grey-overlay);
+        }
+
+        tr:nth-child(2) {
+            font-size: 2rem;
+
+            td {
+                padding-bottom: 0;
+            }
+        }
+    }
+
     .cal-inline-container {
         margin-top: calc(var(--spacing) * 4);
     }
