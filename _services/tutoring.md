@@ -7,7 +7,7 @@ Learn to code a with a qualified computer science teacher.
 
 If you are looking to get started with the Godot engine, I'm offering personalised 1-to-1 tutoring sessions to help you get to grips with building games in Godot.
 
-Whether you're a complete beginner, have dabbled in other engines before or want to push forward into advanced topics. I can support you on your Godot journey.
+Whether you're a complete beginner, have dabbled in other engines before or want to push forward into advanced topics, I can support you on your Godot journey.
 
 Prior to each session, we will pre-agree on the lesson topic and outcomes to ensure that you are meeting your learning goals.
 
